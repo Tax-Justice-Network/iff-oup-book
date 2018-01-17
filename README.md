@@ -2,7 +2,7 @@
 
 Finding hard data on tax revenues and the problems caused by the offshore economy has always been difficult. Ten years ago, even the data set on the tax take of countries around the world was so poor it was unusable.
 
-In that time we have made some progress, and the Tax Justice Network has been able to play a leading role. In 2012 we published the Price of Offshore, authored by Jim Henry, a former chief economist at McKinsey. That estimated that there were $11.5 trillion in assets held offshore. An update to that study in 2014 revised that figure to $21-35 trillion.[^1}
+In that time we have made some progress, and the Tax Justice Network has been able to play a leading role. In 2012 we published the Price of Offshore, authored by Jim Henry, a former chief economist at McKinsey. That estimated that there were $11.5 trillion in assets held offshore. An update to that study in 2014 revised that figure to $21-35 trillion.[^1]
 
 @AlexCobham has been publishing work on the impact of profit shifting by multinationals on economies around the world, and in 2017 published the first impact study on the effect of profit shifting by US multinationals on individual countries.
 
