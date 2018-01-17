@@ -6,7 +6,7 @@ As yet, there is no agreement on which are most robust and reliable estimates fo
 
 Finding hard data on illicit flows, or components such as offshore tax evasion, has always been difficult. Ten years ago, even the data set on the tax take of countries around the world was so poor it was barely usable.
 
-In that time we have made some progress. The ICTD-WIDER [Government Revenue Dataset](https://www.wider.unu.edu/project/government-revenue-dataset), for example, represents a major step forward in the [quality and consistency](http://www.ictd.ac/ju-download/2-working-papers/12-the-ictd-government-revenue-dataset) of data on tax revenues.  In 2012 the Tax Justice Network published the Price of Offshore, authored by Jim Henry, a former chief economist at McKinsey. That estimated that there were $11.5 trillion in assets held offshore. An update to that study in 2014 revised that figure to $21-35 trillion.[^1] @AlexCobham has been publishing work on the impact of profit shifting by multinationals on economies around the world, and in 2017 published one of the first impact studies to show the effect of profit shifting by US multinationals on individual lower-income countries' revenues.
+In that time we have made some progress. The ICTD-WIDER [Government Revenue Dataset](https://www.wider.unu.edu/project/government-revenue-dataset), for example, represents a major step forward in the [quality and consistency](http://www.ictd.ac/ju-download/2-working-papers/12-the-ictd-government-revenue-dataset) of data on tax revenues.  In 2012 the Tax Justice Network published the Price of Offshore, authored by Jim Henry, a former chief economist at McKinsey. That estimated that there were $11.5 trillion in assets held offshore. An update to that study in 2014 revised that figure to $21-35 trillion. @AlexCobham has been publishing work on the impact of profit shifting by multinationals on economies around the world, and in 2017 published one of the first impact studies to show the effect of profit shifting by US multinationals on individual lower-income countries' revenues.
 
 One of our goals at the Tax Justice Network is to expand the knowledge base on the impact of 'tax havens' and the financial secrecy they provide - secrecy which is key to the continuing problem of illicit financial flows. We also want to make our research \(and data\) open, contributing to the global commons and allowing researchers and journalists access to a comprehensive set of research papers and datasets for their work.
 
@@ -45,6 +45,10 @@ When you are ready to submit your changes, you submit a pull request. The pull r
 Github uses a special type of formatting called Markdown, which we hear is wonderfully easy to use, and once you get the hang of it you will see that it will speed up your writing. You may even choose to start using it in your other work. Markdown is a way of marking text with extremely simple codes to signify headings, footnotes, bold text and so on.
 
 A cheatsheet for markdown formatting is available here: [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+One markup which isnt mentioned is how to footnote. This is done by like this.[^1]
+
+And you place this at the bottom of your text [^1]:this is a footnote 
 
 Github was designed for computer code and so the default editor is a code editor. This isn’t always great for writing long texts.
 
