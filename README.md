@@ -1,4 +1,4 @@
-#About this project
+# About this project
 
 Finding hard data on tax revenues and the problems caused by the offshore economy has always been difficult. Ten years ago, even the data set on the tax take of countries around the world was so poor it was unusable.
 
@@ -22,11 +22,13 @@ There follows a brief guide to how to use github to contribute to this project. 
 
 One important thing to flag up, is that the intention is that this book will be published, and therefore please do read the authorship and accreditation section below.
 
-#Using Github There are several ways you can use github to participate in the project.
+# Using Github 
+
+There are several ways you can use github to participate in the project.
 
 If you want to make a general comment, or would like to discuss an idea you have to contribute to the project, the first and easiest thing to do is to open up an issue. To do this click on the issue tab and then click “new issue”. A text editor will open up where you can leave a message, which will then be responded to.
 
-##Editing
+## Editing
 
 Gitgub handles editing in a particular way. It is a little bit of a learning curve, but it provides an excellent way of handling edits from a variety of sources.
 
@@ -38,20 +40,21 @@ Once you start working on the branch and you are ready to save your changes, hit
 
 When you are ready to submit your changes, you submit a pull request. The pull request asks the editors to pull in your changes to the master copy. Pull requests can be commented on so that you can continue working on the branch at the suggestion of editors before the request is approved.
 
-##Writing in github
+## Writing in github
 
 Github uses a special type of formatting called Markdown. It is wonderfully easy to use, and once you get the hang of it you will see that it will speed up your writing. You may even choose to start using it in your other work. Markdown is a way of marking text with extremely simple codes to signify headings, footnotes, bold text and so on.
 
-A cheatsheet for markdown formatting is available here: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+A cheatsheet for markdown formatting is available here: [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 Github was designed for compute code and so the defult editor is a code editor. This isn’t always great for writing long texts.
 
 For that reason, you may want to try out prose.io – prose.io works in your browser and sits on top of your github account to create a more pleasant writing environment.
 
-#Authorship
+# Authorship
 
-Once completed, we intend to publish this book as a physical, paper book. The book will (we hope) generate royalties which will be retained by the Tax Justice Network to continue their work. By contributing to this work you should be comfortable with this idea. No individual will gain from any potential profits from this book.
+Once completed, we intend to publish this book as a physical, paper book. The book will \(we hope\) generate royalties which will be retained by the Tax Justice Network to continue their work. By contributing to this work you should be comfortable with this idea. No individual will gain from any potential profits from this book.
 
 We will list every contributor. Minor contributors will be thanked with an acknowledgement, major contributors will be asked to be co-authors of chapters.
 
 Decisions on co-authoriship will be taken by the editors @alexcobham and @petarjansky
+
