@@ -1,3 +1,6 @@
+
+---
+
 # Introduction
 
 > By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime
@@ -133,20 +136,9 @@ Source: Cobham \(2014\). ‘IFF type’ is defined as follows: 1 – market/regu
 
 #### Table 2: A simpler outline of illicit financial flows
 
-|  |  | **Behaviour type** | **Result when transferred abroad** |
-| :--- | :--- | :--- | :--- |
-| **Legal** | Legally generated profits, capital gains and income | Tax compliance | **Licit**: Legally generated, fully tax compliant and legally transferred assets abroad |
-|  |  | Lawful tax avoidance | **Illicit?**Lawfully tax avoiding assets abroad |
-| **Unlawful** |  | Unlawful tax avoidance | **Illicit**: Legally generated, but unlawfully tax avoiding assets abroad |
-|  |  | Market/regulatory abuse | **Illicit**: Circumvention of regulations via hidden \(offshore\) ownership for unlawfully earned profit at home/abroad |
-|  |  | Illicitly transferred, and/ortransferred for illicit purposes | **Illicit**: Legally generated but violating regulations for cross-border transactions such as evading currency controls, or transferred to fund illegal activities \(including terrorism\) |
-|  |  | Tax evasion | **Illicit**: Legally generated, but criminally tax evading assets abroad |
-| Criminal | Proceeds of corruption | Bribery; Grand corruption; Illicit enrichment; Embezzlement | **Illicit**: Corruption-related illegal assets transferred abroad |
-|  | Proceeds of theft/related crime | Theft; Extortion; Kidnapping; Fraud; Bankruptcy | **Illicit**: Theft-related illegal assets transferred abroad |
-|  | Proceeds of illegal markets | Drug trafficking; Counterfeiting; Firearms trafficking; Trafficking in persons; Smuggling of migrants; Wildlife trafficking | **Illicit**: Illegal assets \(from illegal economic activities\) |
+ ![](/assets/Table2.png)_Source: Cobham and Jansky \(2017b\),building on earlier outline by UNODC, from which text in italics is drawn._
 
-![](/assets/Table2.png)  
-_Source: Cobham and Jansky \(2017b\),building on earlier outline by UNODC, from which text in italics is drawn._
+#### Figure 1: Main IFF types by nature of capital and transaction
 
  
 
@@ -169,23 +161,20 @@ In addition, differences in governments’ willingness to pursue their full tax 
 The broader definition of IFF, reflecting harm rather than strict legality, is also clearly reflected in the key UN documents that precede the global, political agreement on the Sustainable Development Goals – in particular, multinational tax avoidance is repeatedly identified in the pivotal report of the UNECA High Level Panel on Illicit Financial Flows out of Africa, and subsequently in the report of the High Level Panel of Eminent Persons to the UN Secretary-General.  
 A final, pragmatic reason to include multinational tax abuses within the scope of IFF is simply that the estimates may be of notably higher quality than for some other aspects.
 
-##  Impact
+## Impact
 
 One of reasons to pursue better estimates of illicit financial flows is to support, in turn, a better understanding of the scale and nature of their impacts across a range of aspects of human development. These impacts, like the phenomena themselves, many and varied. Figure 3 provides one stylisation of these, distinguishing between IFF that rely on illegal and on legal capital respectively.
 
-  
 Illegal capital IFF, in general, are seen as providing the greatest threat to negative security: that is, the ability of states to prevent, or to negate, insecurity at the personal, community, environmental and political levels: more specifically, the ability and willingness of states to act to reduce the risk of violence against the person, the risk of insecurity due to tensions between groups, the risk of environmental degradation and the risk of political rights violations. The state can be increasingly undermined by the growing role of criminal activity, including the trafficking of drugs, people and illegal goods from e.g. logging, fishing and mining, which may come to require or rely on the support of some state functions such as the military or customs agents; and also by the growth of crimes directly against the state, namely bribery to subvert state power for private gain \(typically of multinational companies\), and the effective theft by people in positions of power of state assets \(or per table 1, the creation of illegitimate state liabilities\).
 
 #### Figure 3: Overview of IFF and human security linkages
 
 ![](/assets/Overview of IFF and Human Security Linkages.png)
 
-_Source: Cobham \(2014\)._  
-
+_Source: Cobham \(2014\)._
 
 As figure 4 illustrates, illegal capital IFF can give rise to a vicious cycle of negative insecurity, in which the growth of IFF further undermines the state’s legitimacy and/or fuels internal conflict; weakening in turn the state’s will or ability to act against IFF, and so increasing the returns to the underlying activity and the incentives to take part.
 
-  
 Legal capital IFF are seen as forming a similar vicious cycle with respect to positive security – that is, the ability of states to provide, to positively construct, secure conditions in which rapid human development can take place. This relates to economic opportunity and freedom from extreme economic inequality; and to the security of basic human development outcomes related to health and nutrition.
 
 #### Figure 4: The vicious cycle of negative insecurity and illegal capital IFF
@@ -194,7 +183,6 @@ Legal capital IFF are seen as forming a similar vicious cycle with respect to po
 
 _Source: Cobham \(2014\)_
 
-  
 Tax is fundamental to the emergence of a State which is both able and willing to support the progressive realisation of human rights – and the relationships here go far beyond revenue. The 4Rs of tax \(Cobham, 2005; 2007\) provide a simple framework to consider these. Revenue is clearly crucial to States’ ability to provide public services from effective administration and the rule of law to health, education and infrastructure; as redistribution is crucial to contain or eradicate both horizontal and vertical inequalities. Less obvious may be the role of taxation in re-pricing – ensuring that the true public costs and benefits of social goods \(like education\) and ills \(such as tobacco consumption and carbon dioxide emission\) are reflected in market prices.
 
 Perhaps the most important result of tax, however, is also often overlooked: political representation. Prolonged reliance on revenues from natural resources or foreign aid tends to undermine channels of responsive government, giving rise to corruption and broader failures of accountability. The act of paying tax provides an important accountability link \(Brautigam et al. 2008; Broms 2011\). Empirical studies suggest the higher the share of tax in government spending, the stronger the process of improving governance and representation \(Ross, 2004; and powerfully confirmed with much stronger data by Prichard, 2015\); while direct tax – taxes on income, profits and capital gains – appears to play a particularly strong role \(Mahon 2005\).
