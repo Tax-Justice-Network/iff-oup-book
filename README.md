@@ -14,7 +14,7 @@ To that end, we are launching here a project to create a new, collaborative, onl
 
 To achieve this, we are going to be authoring our book on github, the open source repository and version control system for software developers. Although built to author software code, the platform is flexible enough to write a book on it. It also allows anyone to set up an account, comment on parts of the text, debate changes, contribute corrections or even entire new chapters.
 
-The journey we about to embark on is a bit of an unknown. Using collaborative tools to author a book has been done before. For example, one group of _hundreds _of maths professors created a book between them - but nothing like that has been attempted in the tax justice space.
+The journey we are about to embark on is a bit of an unknown. Using collaborative tools to author a book has been done before. For example, one group of _hundreds _of maths professors created a book between them - but nothing like that has been attempted in the tax justice space.
 
 There follows a brief guide to how to use github to contribute to this project. If you want to talk to us directly, you can email [book@taxjustice.net](mailto:book@taxjustice.net).
 
@@ -24,7 +24,7 @@ We look forward to the collaboration!
 
 # Using Github
 
-There are several ways you can use github to participate in the project.
+There are several ways you can use github to participate in the project - all via here: https://github.com/Tax-Justice-Network/book
 
 If you want to make a general comment, or would like to discuss an idea you have to contribute to the project, the first and easiest thing to do is to open up an issue. To do this click on the issue tab and then click “new issue”. A text editor will open up where you can leave a message, which will then be responded to.
 
