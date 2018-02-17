@@ -46,9 +46,7 @@ Github uses a special type of formatting called Markdown, which we hear is wonde
 
 A cheatsheet for markdown formatting is available here: [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-One markup which isnt mentioned is how to footnote. This is done by like this.[^1]
-
-And you place this at the bottom of your text [^1]:this is a footnote
+One markup feature which isn't mentioned is how to create a footnote. This is done with a marker in your text like this: `[^1]` and then a corresponding note at the bottom of your text like this: `[^1]:this is a footnote`
 
 Github was designed for computer code and so the default editor is a code editor. This isn’t always great for writing long texts.
 
