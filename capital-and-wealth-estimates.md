@@ -31,7 +31,9 @@ Ndikumana & Boyce \(2010\) rely on data mostly from the IMF, specifically its In
 
 Ndikumana & Boyce \(1998\) thus measure the capital flight,$$KFit$$ , in a year t for a country i as, using a simplified version of their notation:
 
-$$x = y /delta$$
+$$
+x = y /delta
+$$
 
 where  and,  is net foreign direct investment,  is the current account balance, and  is net additions to the stock of foreign reserves.
 
