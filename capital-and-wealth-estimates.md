@@ -33,7 +33,7 @@ Ndikumana & Boyce \(1998\) thus measure the capital flight,$$KFit$$ , in a year 
 
 
 $$
-KFit = Δ DEBTit + FDIit – (CAit- RESit)
+KFit = Δ DEBTit + FDIit – (CAit + RESit)
 $$
 
 
