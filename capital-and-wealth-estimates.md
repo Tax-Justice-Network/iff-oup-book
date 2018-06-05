@@ -97,7 +97,7 @@ Likely the most well-known estimates are those produced by GFI. In 2012, GFI shi
 
 While illicit inflows could be considered to counteract detrimental effects of illicit outflows by increasing available capital resources, this position is questionable \(see UNECA \(2012\) and AUC-UNECA \(2015\) for a more detailed discussion\) because the damage of IFF to governance may be more important than the net resource effect. The benefits to the economy of illicit financial inflows to the economy may well be less than those of licit inflows, since the illicit inflows may themselves be going to fund the illicit economy \(e.g. repatriation of profits by transnational organized criminal organizations may be used to fund expansion of activities in the country in question; the flows could also represent financing of terrorism\); or be circumventing regulation or taxation designed to ensure fair competition. For our purposes, illicit financial inflows seem just as likely as illicit outflows to be distributed as or more unequally than funds in the licit economy, and so our primary interest is in estimates that do not 'net out' illicit financial inflows.
 
-1.2.4 Results
+### Results
 
 Having reviewed both capital account and trade approaches, it is also possible to combine these two types of models, capital-account and trade, and we discuss the results achieved by this combination. Most notably, the research by GFI uses the World Bank residual and hot money models and further makes adjustments for trade misinvoicing. Their hot money-based model estimates that the developing world lost USD 859 billion in illicit outflows in 2010 \(significantly more than the USD 129 billion in aid by OECD countries in 2010\). Their estimates, Kar & Freitas \(2012\), suggest that bribery, kickbacks, and the proceeds of corruption continued to be the primary driver of illicit financial flows from the Middle East and North Africa, while trade mispricing was the primary driver of illicit financial flows in the other regions. On the basis of this kind of estimates, Hollingshead \(2010\) uses national corporate income tax rates to estimate the tax revenue loss from trade mispricing in poor countries between USD 98 billion and USD 106 billion annually over the years 2002 to 2006.
 
@@ -105,7 +105,7 @@ In the most recent 2017 GFI analysis of illicit financial flows to and from deve
 
 Cobham & Gibson \(2016\) show \(in Figure 5\) a comparison for estimates of total African IFF, between GFI methodology with WBR and HMN – Kar & Cartwright-Smith \(2010\), and Kar & Freitas \(2011\), respectively – and the Ndikumana & Boyce approach. Differences between the series frequently exceed the total value of the lowest estimate. Ndikumana & Boyce demonstrates greater volatility, as would be expected given in particular their use of net rather than gross trade mispricing. At the aggregate level, GFI’s updated \(HMN\) methodology tends to produce the more conservative estimates. These differences provide an important illustration of the sensitivity of estimates to assumptions. Note, too, that these are shown at the aggregate level; disaggregated, there are examples of quite different country patterns over time.
 
-1.2.5 Conclusions
+### Conclusions
 
 These capital account anomalies are of two types examined in this group of approaches. They either include changes in foreign portfolio investment, private and central banks’ foreign assets or they include only net errors and omissions. The limitations are obvious: the first is clearly not only anomalies and the latter is only anomalies, but not necessarily only illicit financial flows.
 
@@ -115,19 +115,19 @@ From the point of view of the creators, the advantages of using the estimates of
 
 The drawbacks might be less obvious, but may be more numerous and important. These estimates indicate the possible aggregate extent of flows, rather than necessarily providing an accurate guide to prioritise specific policy efforts. The models rely on official statistics that are sometimes of poor quality, especially in lower-income countries. They do not take into account flows resulting from illicit activities, such as smuggling or black market activity, because proceeds from such activities are not captured in national accounts; nor a range of multinational tax abuses that do not generate anomalies in the series in question. Due to data publication time lags, GFI results – in common with most we evaluate – have a near two-year delay in publication of its estimates. Additionally, GFI provide results for individual lower-income countries, but not for their higher-income counterparts; although these results could possibly be arranged with GFI or estimated independently.
 
-1.3 Offshore capital and wealth: Henry’s estimates
+## Offshore capital and wealth: Henry’s estimates
 
-1.3.1 Overview
+### Overview
 
 Ndikumana and Boyce have generally focused more on the stock of capital held outside African countries, than on the annual outflows. Similarly, Henry \(2012\), in a report for Tax Justice Network \(TJN\), produces global estimates with a largely common methodology, scaling up from outflows to estimates stocks of capital held offshore. The alternative approach here is to use data on international asset and liability positions in order to establish anomalies in the position of particular jurisdictions.
 
 Henry \(2012\) states his objective as measuring long-term unrecorded cross-border private financial capital flows and stocks or unrecorded capital flows and stocks, with a focus on developing countries in particular. He also identifies a relatively wide scope of estimates, although not all relevant economic activity is included and, for example, he omits some types of non-financial wealth. In addition to new empirical estimates, Henry \(2012\) provides an overview of some earlier estimates and discusses other relevant evidence such as on transfer mispricing.
 
-1.3.2 Data
+### Data
 
 Henry \(2012\) uses a number of various data sources, including the World Bank, the IMF, central banks and countries’ national accounts. Each method uses different set of data sources, for example, for the unrecorded capital flow method he uses in most cases data from the WB’s World Development Indicators. Henry’s \(2012\) analysis of private banking assets uses a wide variety data sources including banks’ annual reports and interviews with private banking industry experts. Henry \(2012\) uses data for the period 1970-2010 and presents the results for the year end of 2010, while his 2016 updated estimates are for the year end of 2014 \(Henry, 2016\).
 
-1.3.3 Methodology
+### Methodology
 
 To describe methodology, we base our description on Henry \(2012\) and the available documentation of his methodology \(his 2016 updated estimates seem to be applying the same or similar methodological approach, Henry, 2016\). He combines four methods. While the first method is comparable to the capital account-based methods used by the GFI and Ndikumana and Boyce \(in his words, unrecorded capital flows: “sources-and-uses”\), the other three are based on an accumulated offshore wealth model, an analysis of private banking assets and an offshore investor portfolio model. These multiple methods are used to explore consistency. We describe the methods one by one below.
 
@@ -141,25 +141,25 @@ While the logical reasoning behind the four methodological approaches is clear, 
 
 The other two methods are the core of Henry \(2012\). While a critical evaluation of the sources-and-uses method \(a version of the WBR method\) is already included in the previous two subchapters, we briefly discuss the offshore investor portfolio model here. There is the crucial assumption of the multiplier, which directly influences the estimated offshore wealth and while they are estimates of this multiplier, it does not seem possible to judge its accuracy beyond interviews with experts and the like. Additionally, there are now newer estimates of the multiplier as well as much broader range of the BIS data \(including bilateral information on deposits\) available and it might be interesting to revisit the estimates of Henry \(2012\) and to evaluate the method’s estimates empirically with this improved data.
 
-1.3.4 Results
+### Results
 
 Henry \(2012\) estimates that the offshore financial assets of high net worth individuals are in a range from 21.02 trillion USD to 31.53 trillion USD in 2010. Henry \(2016\) published updated estimates and the range has increased to 24-34 trillion USD and from 9 trillion USD to 12 trillion USD for developing countries. Henry's \(2012\) 9 trillion USD estimate for developing countries derives from the application of the sources-and-uses method \(an adjusted World Bank Residual method\) that he applied to 139 countries and results into a range of 7.3 to 9.3 trillion USD. Equivalent estimates by Henry for Oxfam \(2009\) are a lower bound of 6.2 trillion USD by 2007 and they imply 150-200 billion USD annual outflows out of developing countries and we might expect similar figures in later years, although Henry \(2012\) does not provide this \(outflow\) form of presentation of the estimates. The accumulated offshore wealth model of Henry \(2012\) may add as much as 3.7 trillion USD to global total unrecorded capital outflows.
 
 Henry's \(2012\) headline range of 21-32 trillion USD comes from the offshore investor portfolio model and includes financial offshore wealth only \(the range is a result of assuming the multiplier is either 3 or 4.5\). Henry's \(2012\) analysis of private banking assets finds that at the end of 2010 the top 50 international private banks managed more than 12.06 trillion USD in cross-border invested assets from private clients \(including through trusts and foundations\) and he considers this to be consistent with the results of the offshore investor portfolio model. He also observes that the top ten banks in his group are stable and grew even faster than the top 50 as a whole \(20% in comparison with 16% per year on average between 2005 and 2010\). Henry \(2012\) argues that the multiple estimates are consistent with each other \(for example the results of sources-and-uses model for developing countries seem consistent with the combination of the offshore investor portfolio model and of the assumption of 25-30% share of developing countries in offshore wealth\). Furthermore, Henry \(2012\) compares his overall estimates with the 2011 Credit Suisse Global Wealth Report, which puts global wealth at 231 trillion US dollars, and argues that it makes his estimates seem reasonable and conservative.
 
-1.3.5 Conclusions
+### Conclusions
 
 Overall, the Tax Justice Network report of Henry \(2012\) made a significant contribution to the study of wealth held offshore, and it provided one of the first and most elaborate empirical estimates of this phenomenon, helping to bring public and researchers’ attention to it. The contribution is especially valuable if one considers it as an “open challenge to the IMF and the World Bank – to all comers, in fact - to see if they can come up with better estimates” \(Henry, 2012, p. 4\). The international organisations have not responded yet with their estimates, although they do now devote themselves more to some related research and policy than in the past. The following subchapter presents a formidable response to this challenge, coming instead from academic research.
 
-1.4 Wealth in tax havens: Zucman’s and Alstadsaeter, Johannesen, & Zucman’s estimates
+## Wealth in tax havens: Zucman’s and Alstadsaeter, Johannesen, & Zucman’s estimates
 
-1.4.1 Overview
+### Overview
 
 In an original contribution, Zucman \(2013\) estimated how much undeclared wealth held might be hidden in tax havens using detailed data on financial wealth managed by Swiss banks on behalf of foreigners that he further updated and presented \(Zucman, 2014, 2015\). In a recent follow-up study with co-authors, Alstadsaeter, Johannesen, & Zucman \(2018\) disaggregate the earlier estimates of offshore wealth by Zucman \(2013\) by country. Alstadsaeter, Johannesen, & Zucman \(2018\) still uses the detailed Swiss data but enrich it with other international sources, including the recently disseminated bilateral data from the Bank for International Settlements \(BIS\) on deposits in a number of tax havens by foreigners. This enables them to present how much wealth various countries’ citizens hold in tax havens \(or offshore, two terms that we use here interchangeably, but more detailed specification is provided by Alstadsaeter, Johannesen, & Zucman, 2018, p. 7\).
 
 In this subchapter, we present research by both Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\), but focus on the latter that include country-by-country estimates, which are in line with this book’s objectives of having country-level indicators that enable tracking over time. Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\) provide methods and estimates that likely provide the currently most reliable estimates of wealth in tax havens, although better data in the future should enable further research to improve on them in a number of areas that we discuss below \(for example, they do not capture non-financial wealth and they provide estimates of only financial wealth\).
 
-1.4.2 Data
+### Data
 
 Alstadsaeter, Johannesen, & Zucman \(2018\) use three main data sources. First, they use detailed statistics from the central bank of Switzerland on the bank deposits, portfolios of equities, bonds, and mutual fund shares managed by Swiss banks on behalf of foreigners. This is data described in detail and first exploited for estimates of offshore wealth by Zucman \(2013\). In addition to having this data by definition of its source only for the Swiss banks’ operations in Switzerland, the crucial limitation of this data, acknowledged and dealt with by the authors, is that a large share of wealth owned by foreigners in Switzerland belong on paper to shell companies and other legal entities such as trusts and foundations that disguise the country of the beneficial owner.
 
@@ -169,7 +169,7 @@ Third, they use the IMF’s balance of payments and international investment pos
 
 They further use data from central banks, discussed by Johannesen & Zucman \(2014\), to exclude cross-border bank deposits by corporations and to keep only those by households.
 
-1.4.3 Methodology
+### Methodology
 
 Alstadsaeter, Johannesen, & Zucman \(2018\) first estimate the global offshore wealth using the discrepancy in international investment positions, in this following the approach of Zucman \(2013\).
 
@@ -185,7 +185,7 @@ Alstadsaeter, Johannesen, & Zucman \(2018\) then proceed to show implications of
 
 We consider the methodologies and estimates of Zucman \(2013\) and Alstadsaeter, Johannesen, & Zucman \(2018\) as the most reliable estimates of offshore wealth available, in terms of the country breakdown in particular. Still, these research papers naturally have their limitations. Both of these inevitably focus exclusively on financial wealth and their estimates are thus underestimates because they ignore non-financial wealth such as real estate, gold, works of art etc. Also, Alstadsaeter, Johannesen, & Zucman \(2018\) present main results for 2007 and argue that the more recent period is contaminated by the use of shell companies. So there is obviously a scope for detailing the development in recent years, which might be important, as they acknowledge, for example in the case of China.
 
-1.4.4 Results
+### Results
 
 Using the discrepancy in international investment positions similarly to Zucman \(2013\),  Alstadsaeter, Johannesen, & Zucman \(2018\) observe the scale of offshore wealth over time since 2001. They find that it remained equal to about 10% of world GDP \(5.6 trillion USD in their benchmark year 2007\). This is slightly lower and similar in trends to interview-based estimates by Boston Consulting Group \(2017\). Other companies and researchers also usually arrive at higher estimates, including Henry \(2012\) above, and they thus consider their estimates conservative. According to the detailed Swiss data, a large share of this estimated offshore wealth is held in Switzerland, but it is declining in recent years \(30% in the recent years, compared to 40-50% in the 2000s\). In contrast, Asian tax havens are on the rise; Hong Kong in particular experienced a steep increase in recent years and is now the second most important tax haven after Switzerland according to their estimates.
 
@@ -193,7 +193,7 @@ From the Swiss data Alstadsaeter, Johannesen, & Zucman \(2018\) estimate that s
 
 From the sum of these two estimates, they learn that while an equivalent of 10% of world GDP is held in tax havens globally, there are important differences across countries: a few per cent in Scandinavian countries, around 15% in Europe and up to 60% in Russia, Gulf countries and some countries in Latin America. They do not find a relationship between the scale and tax, financial or institutional characteristics, but do find that geography \(such as proximity to Switzerland and reliance on natural resources\) and history \(such as instability since the Second World War\), which is consistent with recent findings of Andersen, Johannesen, Lassen, & Paltseva \(2017\) that flows to tax havens are related with oil prices and political shocks. As a robustness check, Alstadsaeter, Johannesen, & Zucman \(2018\) show that their estimated offshore wealth is mostly very well  correlated with how many shell companies a country created as indicated by the so called Panama Papers \(the main exception being China, for which they do not estimate much offshore wealth, but for which many shell companies were created\). In the remainder of the paper that we do not discuss here, Alstadsaeter, Johannesen, & Zucman \(2018\) show that taking into account the estimated offshore wealth increases the top 0.01% wealth share substantially in Europe and in Russia.
 
-1.4.5 Conclusions
+### Conclusions
 
 Despite recent progress in research on the scale of offshore wealth, there is still a long way to go to have reliable estimates of offshore wealth. The main limitation seems to be the available data, despite improvements in recent years, including the publication of the BIS bilateral data. Still, Switzerland is the only tax haven that publishes comprehensive statistics on the amount of foreign wealth managed by its banks. We thus join Alstadsaeter, Johannesen, & Zucman \(2018\) in calling for improving statistics.
 
