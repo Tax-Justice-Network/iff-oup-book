@@ -19,7 +19,7 @@ Quite a few other studies focus on what assets might be illegally already held a
 
 There have been a number of approaches to estimation of illicit financial flows on the basis of capital account data, with Erbe \(1985\) and World Bank \(1985\) being among the first to estimate the scale of capital flight, but most recent ones aim to estimate the difference between capital inflows and capital outflows. Capital inflows include net increases in external debt and net foreign direct investment. Capital outflows consist of the current account deficit and net additions to reserves.
 
-## Data
+### Data
 
 The Hot Money ‘Narrow’ Method \(HMN\) uses only balance of payments data, usually from the International Monetary Fund, and is thus equivalent to the net errors and omissions reported there. This is the preferred method by the GFI.
 
@@ -41,27 +41,27 @@ where  and,  is net foreign direct investment,  is the current account balance, 
 
 In a number of papers Ndikumana & Boyce \(1998, 2003, 2010, 2011\) have provided a number of estimates on the basis of this methodology, with a range of additional adjustments aimed at refining these estimates. For example, Ndikumana & Boyce \(2010\) make four adjustments: for trade misinvoicing, exchange rate fluctuations, debt write-offs and underreporting of remittances. The trade misinvoicing estimate is discussed in detail in the previous chapter \(Ndikumana & Boyce \(2010\) make the trade invoicing adjustment by comparing countries’ export and import data to those of its trading partners, assuming the high-income countries data to be relatively accurate and they interpret the difference as evidence of trade misinvoicing.\) Ndikumana & Boyce \(2010\) make these adjustments, but do not highlight the scale of these individual adjustments, only the resulting overall estimates of capital flight.
 
-1.1.4 Results
+### Results
 
 In contrast with the other subchapters in this chapter, Ndikumana and Boyce do not aim to provide global results and focus on sub-Saharan African countries instead. Also, as mentioned above, their results do not disentangle the various adjustments they make. For example, Ndikumana & Boyce \(2010\) estimate that total capital flight from 33 sub-Saharan African countries between 1970 and 2004 amounted to 443 billion US dollars \(and 640 billion US dollars when imputed interest earnings are included\). Ndikumana & Boyce \(2010\) highlight that these estimates exceed these countries’ external debts \(which in 2004 amounted to 193 billion US dollars\).
 
-1.1.5 Conclusions
+### Conclusions
 
 Over the past two decades, Ndikumana and Boyce have provided likely the most prominent estimates of capital flight from sub-Saharan African countries. While these estimates have proved useful in raising awareness about the illicit financial flows, they do have methodological constraints. These are mostly shared with the other similar approaches discussed below and so we discuss them together in the following sub-chapter on the approach of GFI.
 
-1.2 Capital account anomalies: Global Financial Integrity \(GFI\)
+## Capital account anomalies: Global Financial Integrity \(GFI\)
 
-1.2.1 Overview
+### Overview
 
 For capital account anomalies, the two most commonly used methods are the World Bank Residual Method \(WBR\) and the Hot Money ‘Narrow’ Method \(HMN\).
 
 While most of these estimates in recent years have been prepared by GFI or Ndikumana and Boyce discussed above, UNDP commissioned a report by a lead author of the GFI estimates, Kar \(2011\).
 
-1.2.2 Data
+### Data
 
 GFI uses the balance of payments published by the IMF as the only source for their estimates of balance of payments leakages \(Spanjers & Salomon, 2017\).
 
-1.2.3 Methodology
+### Methodology
 
 The World Bank residual model subtracts the total of funds actually used by a country from the total of funds entering that country and, if there are more funds coming in than funds being used, the resulting shortfall is considered to be illicit flows. The hot money model considers all errors in a country’s external accounts as illicit flows. Both these methods rely on anomalies in the Balance of Payment \(BoP\) identity, as expressed in a notation by World Bank’s Claessens & Naude \(1993\) and followed by Kar & Freitas \(2012\) and others:
 
